@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ArrayOfKorisnik xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Korisnik>
+    <ime>Brigita</ime>
+    <prezime>Perkovic</prezime>
+    <korisnickoIme>bperkovic</korisnickoIme>
+    <lozinka>bperkovic</lozinka>
+  </Korisnik>
+  <Korisnik>
+    <ime>Kristijan</ime>
+    <prezime>Perkovic</prezime>
+    <korisnickoIme>kperkovic</korisnickoIme>
+    <lozinka>kperkovic</lozinka>
+  </Korisnik>
+  <Korisnik>
+    <ime>Andriana </ime>
+    <prezime>Perkovic</prezime>
+    <korisnickoIme>ananaperkovic</korisnickoIme>
+    <lozinka>123456</lozinka>
+  </Korisnik>
+</ArrayOfKorisnik>

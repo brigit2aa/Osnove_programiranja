@@ -1,0 +1,3 @@
+3.2.2020. 11:49:13 - Pokretanje programa.3.2.2020. 11:49:27 - Uspješna prijava korisnika bperkovic.
+3.2.2020. 11:49:27 - Prikaz izbornika za prijavljenje korisnike.
+3.2.2020. 11:49:30 - Prikaz izbornika za pretraživanje po karakteristikama.

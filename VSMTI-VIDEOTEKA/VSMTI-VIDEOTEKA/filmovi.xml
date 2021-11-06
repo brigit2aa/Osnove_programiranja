@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<ArrayOfFilm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Film>
+    <redniBroj>1</redniBroj>
+    <sifra>012</sifra>
+    <nazivFilma>2:22</nazivFilma>
+    <zanrFilm>Triler</zanrFilm>
+    <redatelj>Paul Currie</redatelj>
+    <glumci>Teresa Palmer, Michiel Huisman, Maeve Dermody</glumci>
+  </Film>
+  <Film>
+    <redniBroj>2</redniBroj>
+    <sifra>123</sifra>
+    <nazivFilma>The Aeronauts</nazivFilma>
+    <zanrFilm>Akcija</zanrFilm>
+    <redatelj>Tom Harper</redatelj>
+    <glumci>Felicity Jones, Himesh Patel, Tom Courtenay, Phoebe Fox, Rebecca Front, Lewin Lloyd, Vincent Perez, Gianni Calchetti, Thomas Arnold, Kamil Lemieszewski, Julian Ferro</glumci>
+  </Film>
+  <Film>
+    <redniBroj>3</redniBroj>
+    <sifra>345</sifra>
+    <nazivFilma>Ideš? Idem!</nazivFilma>
+    <zanrFilm>Komedija</zanrFilm>
+    <redatelj>Ljubo Zdjelarević</redatelj>
+    <glumci>Veronika Rosandić, Kaja Kočevar, Vid Juračić, Fran Lauš, Bogdan Ilić, Nika Ilčić, Amel Družanović, Nenad Krstić, Mert Efe, Zijad Gračić</glumci>
+  </Film>
+  <Film>
+    <redniBroj>4</redniBroj>
+    <sifra>456</sifra>
+    <nazivFilma>Plus One</nazivFilma>
+    <zanrFilm>Romantika</zanrFilm>
+    <redatelj>Jeff Chan, Andrew Rhymer</redatelj>
+    <glumci>Maya Erskine, Jack Quaid, Ed Begley Jr., Alex Anfanger, Kiersten Armstrong, Jennifer Bartels, Jon Bass, Joe Bays, Emma Bell, Beck Bennett, Scarlett Bermingham, Jaxy Boyd, Christine Bullen, Rachelle Carson, Rosalind Chao</glumci>
+  </Film>
+  <Film>
+    <redniBroj>5</redniBroj>
+    <sifra>567</sifra>
+    <nazivFilma>Last Christmas</nazivFilma>
+    <zanrFilm>Drama</zanrFilm>
+    <redatelj>Paul Feig</redatelj>
+    <glumci>Emilia Clarke, Henry Golding, Emma Thompson, Michelle Yeoh, Peter Serafinowicz, Patti LuPone, Rob Delaney, Sue Perkins, Ingrid Oliver, Nasir Jama, Margaret Clunie, Rebecca Root, Lydia Leonard, David Mumeni, Davina Sitaram</glumci>
+  </Film>
+  <Film>
+    <redniBroj>6</redniBroj>
+    <sifra>678</sifra>
+    <nazivFilma>Can You Keep a Secret?</nazivFilma>
+    <zanrFilm>Romantična komedija</zanrFilm>
+    <redatelj>Elise Duran</redatelj>
+    <glumci>Alexandra Daddario, Tyler Hoechlin, Sunita Mani</glumci>
+  </Film>
+  <Film>
+    <redniBroj>7</redniBroj>
+    <sifra>789</sifra>
+    <nazivFilma>Trouble</nazivFilma>
+    <zanrFilm>Animirani</zanrFilm>
+    <redatelj>Kevin Johnson</redatelj>
+    <glumci>Dee Bradley Baker, Kevin Chamberlin, Ludo Lefebvre, Colby Lopez, Cesar Millan, Jason Mraz, Carlos PenaVega, Seth Rollins, Cher Rue, Big Sean, Snoop Dogg, Manny Streetz, Conrad Vernon, Harland Williams, Marissa Jaret Winokur</glumci>
+  </Film>
+  <Film>
+    <redniBroj>8</redniBroj>
+    <sifra>890</sifra>
+    <nazivFilma>The Lion King</nazivFilma>
+    <zanrFilm>Animirani</zanrFilm>
+    <redatelj>Jon Favreau</redatelj>
+    <glumci>Chiwetel Ejiofor, John Oliver, James Earl Jones, John Kani, Alfre Woodard, JD McCrary, Shahadi Wright Joseph, Penny Johnson Jerald, Keegan-Michael Key, Eric André, Florence Kasumba, Seth Rogen, Billy Eichner, Amy Sedaris, Chance the Rapper</glumci>
+  </Film>
+  <Film>
+    <redniBroj>9</redniBroj>
+    <sifra>900</sifra>
+    <nazivFilma>Bumblebee</nazivFilma>
+    <zanrFilm>Science Fiction</zanrFilm>
+    <redatelj>Travis Knight</redatelj>
+    <glumci>Hailee Steinfeld, Dylan O'Brien, Megyn Price, John Cena, Justin Theroux, Angela Bassett, Pamela Adlon, Grey Griffin, Peter Cullen, Marcella Bragio, Kenneth Choi, Gracie Dzienny, John Ortiz, Jorge Lendeborg Jr., Steve Blum</glumci>
+  </Film>
+  <Film>
+    <redniBroj>10</redniBroj>
+    <sifra>001</sifra>
+    <nazivFilma>Annabelle</nazivFilma>
+    <zanrFilm>Horor</zanrFilm>
+    <redatelj>John R. Leonetti</redatelj>
+    <glumci>Annabelle Wallis, Ward Horton, Tony Amendola, Alfre Woodard, Kerry O'Malley, Brian Howe, Eric Ladin, Ivar Brogger, Geoff Wehner, Gabriel Bateman, Shiloh Nelson, Sasha Sheldon, Camden Singer, Robin Pearson Rose, Keira Daniels, Joseph Bishara, Morganna Bri</glumci>
+  </Film>
+  <Film>
+    <redniBroj>11</redniBroj>
+    <sifra>111</sifra>
+    <nazivFilma>VSMTI - VIDEOTEKA </nazivFilma>
+    <zanrFilm />
+    <redatelj />
+    <glumci>Brigita Perkovic</glumci>
+  </Film>
+</ArrayOfFilm>
